@@ -2,10 +2,10 @@
   "name": "vscode-fix-last-typo",
   "displayName": "vscode-fix-last-typo",
   "description": "Automatically fix typo before cursor.",
-  "icon": "",
+  "icon": "image/logo.png",
   "publisher": "awtnb",
   "repository": {
-    "url": ""
+    "url": "https://github.com/AWtnb/vscode-fix-last-typo"
   },
   "version": "0.0.1",
   "engines": {
