@@ -1,6 +1,6 @@
 {
-  "name": "vscode-fix-last-typo",
-  "displayName": "vscode-fix-last-typo",
+  "name": "fix-last-typo",
+  "displayName": "fix-last-typo",
   "description": "Automatically fix typo before cursor.",
   "icon": "image/logo.png",
   "publisher": "awtnb",
