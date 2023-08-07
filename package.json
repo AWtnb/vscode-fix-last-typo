@@ -32,8 +32,8 @@
       "properties": {
         "fix-last-typo.pairs": {
           "type": "array",
-          "default": [".,", ":;", "=~", "。、", "。，", "：；"],
-          "description": "array of 2-length characters that you often typo."
+          "default": [".,", ":;", "=~", "。、", "：；"],
+          "description": "Array of 2-length characters that you often typo. Characters are toggled each other, so the same letter must not appear in this array."
         }
       }
     },
