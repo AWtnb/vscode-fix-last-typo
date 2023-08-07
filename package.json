@@ -7,7 +7,7 @@
   "repository": {
     "url": "https://github.com/AWtnb/vscode-fix-last-typo"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -32,7 +32,13 @@
       "properties": {
         "fix-last-typo.pairs": {
           "type": "array",
-          "default": [".,", ":;", "=~", "。、", "：；"],
+          "default": [
+            ".,",
+            ":;",
+            "=~",
+            "。、",
+            "：；"
+          ],
           "description": "Array of 2-length characters that you often typo. Characters are toggled each other, so the same letter must not appear in this array."
         }
       }
