@@ -39,7 +39,7 @@
             "。、",
             "：；"
           ],
-          "description": "Array of 2-length characters that you often typo. Characters are toggled each other, so the same letter must not appear in this array."
+          "description": "Array of 2-length characters that you often typo. Characters are toggled each other, so the same character must not appear in this array."
         }
       }
     },
